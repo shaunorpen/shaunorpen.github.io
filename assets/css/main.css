@@ -1367,14 +1367,24 @@ button.large,
   font-size: 1.5em;
   letter-spacing: -0.025em;
 }
-input[type=button].portfolio-detail,
-input[type=submit].portfolio-detail,
-input[type=reset].portfolio-detail,
-button.portfolio-detail,
-.button.portfolio-detail {
+input[type=button].gh-link,
+input[type=submit].gh-link,
+input[type=reset].gh-link,
+button.gh-link,
+.button.gh-link {
   font-size: 1.5em;
   letter-spacing: -0.025em;
   padding: 0.2em 0.4em;
+}
+input[type=button].tech-icon,
+input[type=submit].tech-icon,
+input[type=reset].tech-icon,
+button.tech-icon,
+.button.tech-icon {
+  font-size: 1.5em;
+  letter-spacing: -0.025em;
+  padding: 0.2em 0.4em;
+  background-color: #93e689;
 }
 input[type=button].alt,
 input[type=submit].alt,
