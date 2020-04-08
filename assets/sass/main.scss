@@ -5,7 +5,7 @@
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700');
-@import url('fontawesome-all.min.css');
+// @import url('fontawesome-all.min.css');
 
 /*
 	Miniport by HTML5 UP
@@ -720,11 +720,11 @@
 			}
 		}
 
-		&.brands {
-			&:before {
-				font-family: 'Font Awesome 5 Brands';
-			}
-		}
+		// &.brands {
+		// 	&:before {
+		// 		font-family: 'Font Awesome 5 Brands';
+		// 	}
+		// }
 
 		&.featured {
 			color: #EA8A95;

@@ -1,0 +1,25 @@
+{
+  "name": "shaunorpen.github.io",
+  "version": "1.0.0",
+  "description": "Miniport by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass assets/sass/main.scss assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunorpen/shaunorpen.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunorpen/shaunorpen.github.io/issues"
+  },
+  "homepage": "https://github.com/shaunorpen/shaunorpen.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.26.3"
+  }
+}
