@@ -499,6 +499,12 @@
 			letter-spacing: -0.025em;
 		}
 
+		&.portfolio-detail {
+			font-size: 1.5em;
+			letter-spacing: -0.025em;
+			padding: 0.2em 0.4em;
+		}
+
 		&.alt {
 			background-color: #444;
 			box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);

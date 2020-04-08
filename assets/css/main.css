@@ -1364,6 +1364,15 @@ button.large,
   font-size: 1.5em;
   letter-spacing: -0.025em;
 }
+input[type=button].portfolio-detail,
+input[type=submit].portfolio-detail,
+input[type=reset].portfolio-detail,
+button.portfolio-detail,
+.button.portfolio-detail {
+  font-size: 1.5em;
+  letter-spacing: -0.025em;
+  padding: 0.2em 0.4em;
+}
 input[type=button].alt,
 input[type=submit].alt,
 input[type=reset].alt,
