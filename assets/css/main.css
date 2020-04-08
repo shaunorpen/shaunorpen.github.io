@@ -1879,6 +1879,13 @@ button.large,
     font-size: 1.2em;
     letter-spacing: 0;
   }
+  input[type=button].gh-link,
+input[type=submit].gh-link,
+input[type=reset].gh-link,
+button.gh-link,
+.button.gh-link {
+    width: auto;
+  }
 
   /* Social */
   ul.social {
